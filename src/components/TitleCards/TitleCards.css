@@ -21,8 +21,10 @@
 .card__list .card {
     position: relative;
 }
-.card__list.card p {
+.card__list .card p {
     position: absolute;
     bottom: 10px;
     right: 10px;
+    text-decoration: non;
+    color: #fff;
 }
